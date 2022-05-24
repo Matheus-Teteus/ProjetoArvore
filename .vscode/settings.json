@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "setStrokeColor",
+        "options1",
+        "arrastar",
+        "text",
+        "options1text"
+    ]
+}
